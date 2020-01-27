@@ -212,6 +212,8 @@ github.com/emicklei/go-restful v2.9.5+incompatible/go.mod h1:otzb+WCGbkyDHkqmQmT
 github.com/emicklei/go-restful v2.9.6+incompatible/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
 github.com/emicklei/go-restful v2.11.1+incompatible h1:CjKsv3uWcCMvySPQYKxO8XX3f9zD4FeZRsW4G0B4ffE=
 github.com/emicklei/go-restful v2.11.1+incompatible/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
+github.com/erdrix/controller-tools v0.2.4-pr137 h1:e0A8ojEw35hhA7gsYjTVhF5lndakS3Ehav/OhQkZ2lg=
+github.com/erdrix/controller-tools v0.2.4-pr137/go.mod h1:8SNGuj163x/sMwydREj7ld5mIMJu1cDanIfnx6xsU70=
 github.com/euank/go-kmsg-parser v2.0.0+incompatible/go.mod h1:MhmAMZ8V4CYH4ybgdRwPr2TU5ThnS43puaKEMpja1uw=
 github.com/evanphx/json-patch v4.1.0+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQLiYLvXMP4fmwYFNcr97nuDLSk=
 github.com/evanphx/json-patch v4.2.0+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQLiYLvXMP4fmwYFNcr97nuDLSk=

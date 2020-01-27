@@ -62,6 +62,8 @@ require (
 	sigs.k8s.io/controller-tools v0.2.4
 )
 
+replace sigs.k8s.io/controller-tools => github.com/erdrix/controller-tools v0.2.4-pr137
+
 // Pinned to kubernetes-1.16.2
 replace (
 	k8s.io/api => k8s.io/api v0.0.0-20191016110408-35e52d86657a
