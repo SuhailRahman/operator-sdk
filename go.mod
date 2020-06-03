@@ -57,3 +57,5 @@ replace (
 	github.com/mattn/go-sqlite3 => github.com/mattn/go-sqlite3 v1.10.0
 	k8s.io/client-go => k8s.io/client-go v0.18.2
 )
+
+replace sigs.k8s.io/controller-tools => github.com/erdrix/controller-tools v0.3.0-forked-pr317
